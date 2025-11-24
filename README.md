@@ -1,8 +1,8 @@
-# Multiancestry_LRRK2_p.A419V
+# The LRRK2 p.A419V risk variant influences age of onset for Parkinson's disease in East Asian populations
 
 `GP2 ❤️ Open Science 😍`
 
-[![DOI](https://zenodo.org/badge/DOI/nnnnn/zenodo.nnnnn.svg)](https://doi.org/nnnnn/zenodo.nnnnn)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17701937.svg)](https://doi.org/10.5281/zenodo.17701937)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
