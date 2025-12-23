@@ -22,11 +22,11 @@ THIS_REPO
 └── analysis
     └── AMP-PD
     |   └── 01_A419V_AMP-PD.ipynb    
-    └── GP2
-        └── 00_A419V_data_preparation.ipynb
-        ├── 01_A419V_variant_analysis_release9.ipynb
-        └── 02_A419V_haplotype_release9.ipynb
-        └── 03_A419V_AAO_analysis_release9.ipynb
+    ├── GP2
+    |   ├── 00_A419V_data_preparation.ipynb
+    |   ├── 01_A419V_variant_analysis_release9.ipynb
+    |   ├── 02_A419V_haplotype_release9.ipynb
+    |   └── 03_A419V_AAO_analysis_release9.ipynb
     └── AllOfUs
 
 
@@ -42,7 +42,7 @@ THIS_REPO
 |         | 02_A419V_haplotype_release9.ipynb        | Analyzes haplotype around A419V in GP2 genotyped data      |
 |         | 03_A419V_AAO_analysis_release9.ipynb     | Analyzes Age of Onset for PD A419V carrier and non-carrier |
 |AMP-PD/  | 01_A419V_AMP-PD.ipynb                    | Analyzes AMP-PD whole-genome sequencing data               |
-|AllOfUs| 01_LRRK2_A419V_AllofUs.ipynb             | Analyzes All-of-us whole-genome sequencing data               |
+|AllOfUs/ | 01_LRRK2_A419V_AllofUs.ipynb             | Analyzes All-of-us whole-genome sequencing data               |
 
 # Software
 |       **Software**                | **Version(s)** |           **Resource URL**                                           |   **RRID**     |                                                               **Notes**                                               |
