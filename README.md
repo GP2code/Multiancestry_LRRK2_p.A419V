@@ -27,9 +27,8 @@ THIS_REPO
         ├── 01_A419V_variant_analysis_release9.ipynb
         └── 02_A419V_haplotype_release9.ipynb
         └── 03_A419V_AAO_analysis_release9.ipynb
-    └── UKB
     └── AllOfUs
-    └── SG-EAS-WES
+
 
 ```
 
